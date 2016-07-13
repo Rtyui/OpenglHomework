@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<Keys>
+
+  <KeyA
+    code="0"
+    ></KeyA>
+
+  <KeyB
+    code="1"
+    ></KeyB>
+
+  <KeyD
+    code="3"
+    ></KeyD>
+
+  <KeySpace
+    code="57"
+    ></KeySpace>
+  
+  <KeyLeft
+    code="71"
+    ></KeyLeft>
+
+  <KeyRight
+    code="72"
+    ></KeyRight>
+
+</Keys>
